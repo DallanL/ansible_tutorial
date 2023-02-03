@@ -1,0 +1,5 @@
+[servers]
+k3s01 ansible_host=192.168.77.51
+k3s02 ansible_host=192.168.77.52
+k3s03 ansible_host=192.168.77.53
+
